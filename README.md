@@ -31,7 +31,7 @@ Step 7: Save and run the application.
  ```
 /*
 Program to create an Option Menu
-Developed by: Mahara Jothish
+Developed by: Mahara Jothish E
 RegisterNumber:  212221040094
 */
 ```
